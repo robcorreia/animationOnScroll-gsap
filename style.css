@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  height: 100vh;
+  background: #251100; 
+}
+
+.section-1 {
+  width: 100%;
+  height: 600px;
+  background: #2401AA;
+  opacity: 0;
+}
+
+.section-2 {
+  width: 100%;
+  height: 600px;
+  background: #566456;
+  opacity: 0;
+}
